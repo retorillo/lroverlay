@@ -24,5 +24,3 @@ deploy:
 build:
   project: build.xml
   verbosity: normal
-test_script:
-  cmd: msbuild build.xml /t:RunTest

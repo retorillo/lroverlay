@@ -1,7 +1,8 @@
 # lroverlay.exe
 
-[![Downloads](https://img.shields.io/github/downloads/retorillo/lroverlay/total)](https://img.shields.io/github/downloads/retorillo/lroverlay/total)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![AppVeyor](https://img.shields.io/appveyor/build/retorillo/lroverlay)](https://ci.appveyor.com/project/retorillo/lroverlay)
+[![Downloads](https://img.shields.io/github/downloads/retorillo/lroverlay/total)](https://github.com/retorillo/lroverlay/releases)
+![Windows](https://svgshare.com/i/ZhY.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/bc1qqtzjl35enhe0l7a3fuhtkxjenn9sx797v2z64t)](https://en.cryptobadges.io/donate/bc1qqtzjl35enhe0l7a3fuhtkxjenn9sx797v2z64t)
 
